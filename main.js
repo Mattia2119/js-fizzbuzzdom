@@ -18,5 +18,4 @@ for (let i = 1; i <= 1000; i++) {
         containerElement.innerHTML = containerElement.innerHTML + "<div class='box'>" + i + "</div>";
     }
 
-
 }
